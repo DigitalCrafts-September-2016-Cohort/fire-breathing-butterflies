@@ -13,3 +13,4 @@ Destruction and chaos are my middle names. Also modest, good looking, incredibly
 **fork repos/git Jqueries**
 
 New changes
+I'm gonna make some changes around here, there's a new sheriff in town!
