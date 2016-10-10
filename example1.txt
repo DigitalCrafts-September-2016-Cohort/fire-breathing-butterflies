@@ -1,1 +1,2 @@
 This is an example text file
+Please accept my merge request. I have a wife and six kids
